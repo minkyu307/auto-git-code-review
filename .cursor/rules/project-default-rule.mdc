@@ -1,0 +1,5 @@
+---
+description: The [was] path is a SpringBoot-based web backend server and the [webApp] path is a Quasar + vue3-based frontend.
+globs:
+alwaysApply: true
+---
